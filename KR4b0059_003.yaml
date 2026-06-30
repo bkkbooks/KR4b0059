@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4b0059/chant/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附録下列兩詩據逯欽立輯本輯月殿耀朱幡風輪和寶鐸朝猿響甍棟夜水聲帷箔廬山記四行衣侵曉露征舠犯夜湍無因停合浦見此去珠還韻補二
+  hash: sha256:447e36ac9a96b1d84eeff5d4411cba428201842f9e591f337805baa7f7a16519
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR4b0059_CHANT_003-1a.1-h}
+metadata:
+  title: 劉孝綽集二卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR4b0059.xml
+hash: sha256:51eec645d41e7bcbdb8d5c0d7bc60f92038ba36e8892fdca8e920ccd395e493d
