@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 附録下列兩詩據逯欽立輯本輯月殿耀朱幡風輪和寶鐸朝猿響甍棟夜水聲帷箔廬山記四行衣侵曉露征舠犯夜湍無因停合浦見此去珠還韻補二
-  hash: sha256:447e36ac9a96b1d84eeff5d4411cba428201842f9e591f337805baa7f7a16519
+  text: 附錄下列兩詩據逯欽立輯本輯月殿耀朱幡風輪和寶鐸朝猿響甍棟夜水聲帷箔廬山記四行衣侵曉露征舠犯夜湍無因停合浦見此去珠還韻補二
+  hash: sha256:d9c4f7742c68c9de7096da00526ba35580e775f1e9c8c41e5422885e41cc1c46
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR4b0059_CHANT_003-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR4b0059.xml
-hash: sha256:51eec645d41e7bcbdb8d5c0d7bc60f92038ba36e8892fdca8e920ccd395e493d
+hash: sha256:eec1406331387a4db28897198ca37e7b9e8ede3eaac25f7e61aa501cc53638fe
