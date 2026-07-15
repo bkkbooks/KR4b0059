@@ -3,6 +3,7 @@ seq: 3
 markers:
   front: []
   body:
+  - {type: substitution, offset: 1, original: 錄, replacement: 録, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20840}}
   - {type: xml-element, offset: 2, content: '', id: KR4b0059_CHANT_003-bkkxmlele1, name: p, role: open}
   - {type: 'tls:seg', offset: 2, content: '', id: KR4b0059_CHANT_003-1a.1}
   - {type: 'tls:seg', offset: 2, content: '', id: KR4b0059_CHANT_003-1a.2}
@@ -41,4 +42,4 @@ markers:
   - {type: punctuation, offset: 60, content: 。, id: KR4b0059_CHANT_003-bkkpn19}
   - {type: xml-element, offset: 60, content: '', id: KR4b0059_CHANT_003-bkkxmlele6, name: p, role: close}
   back: []
-hash: sha256:3fcac97ebeb0f4416c9ff6f17bfb2b9d703d5c9bdbc6e32ff439a563d9530e04
+hash: sha256:5fd8c48feff03e62f53f084985110d173b628fbeb0674e33d12b8291d9f55efa
